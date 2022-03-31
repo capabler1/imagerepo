@@ -6,7 +6,7 @@ WEB:https://zichen.zone/
 */
 
 $APIname='ZiC API';
-$image_file = 'img.txt';
+$image_file = 'webp.txt';
 
 //文件不见了
 if(!file_exists($image_file)) {
